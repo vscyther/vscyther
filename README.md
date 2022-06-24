@@ -1,5 +1,4 @@
 ### Hi there 👋 welcome to my Github
-<p align="center">
 
 Pleased to meet you. My name is Rodrigo, I'm 18 years old and also a programming enthusiast.
 
